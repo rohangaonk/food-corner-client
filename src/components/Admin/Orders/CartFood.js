@@ -35,7 +35,7 @@ function CartFood({ cartFood }) {
           ""
         )}
       </div>
-      <div className="_extrasBox">
+      <div className="_extras">
         {cartFood.extras.length ? (
           <div className="flex text-font-12">
             <div className="_extras flex w-1/3 ">
