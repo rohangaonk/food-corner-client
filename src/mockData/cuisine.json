@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "burger_sqr.jpg",
+    "banner": "Maxican"
+  },
+  {
+    "id": 2,
+    "image": "kababs_sqr.jpg",
+    "banner": "Italian"
+  },
+  {
+    "id": 3,
+    "image": "chinese_sqr.jpg",
+    "banner": "Chinese"
+  },
+  {
+    "id": 4,
+    "image": "paneer_sqr.jpg",
+    "banner": "Indian"
+  },
+  {
+    "id": 5,
+    "image": "burger_sqr.jpg",
+    "banner": "Maxican"
+  },
+  {
+    "id": 6,
+    "image": "kababs_sqr.jpg",
+    "banner": "Italian"
+  },
+  {
+    "id": 7,
+    "image": "chinese_sqr.jpg",
+    "banner": "Chinese"
+  },
+  {
+    "id": 8,
+    "image": "paneer_sqr.jpg",
+    "banner": "Indian"
+  }
+]

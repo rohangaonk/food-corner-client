@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "North Indian"
+  },
+  {
+    "id": 2,
+    "name": "Goan"
+  },
+  {
+    "id": 3,
+    "name": "Momos"
+  },
+  {
+    "id": 4,
+    "name": "Starters"
+  },
+  {
+    "id": 5,
+    "name": "Main Course"
+  },
+  {
+    "id": 6,
+    "name": "Ice Creams"
+  },
+  {
+    "id": 7,
+    "name": "Drinks"
+  },
+  {
+    "id": 8,
+    "name": "Rice"
+  },
+  {
+    "id": 9,
+    "name": "Juices"
+  }
+]

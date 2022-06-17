@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Flora Kitchen",
+    "cuisines": "Indian, Chinese, Desserts",
+    "isFeatured": true,
+    "cost": "500 for 2",
+    "maxTime": "30 mins",
+    "image": "rest1.jpg",
+    "rating": "3.5"
+  },
+  {
+    "id": 2,
+    "name": "Ritz Classic",
+    "cuisines": "Indian, Italian, Maxican",
+    "isFeatured": false,
+    "cost": "400 for 2",
+    "maxTime": "20 mins",
+    "image": "rest2.jpg",
+    "rating": "4.5"
+  },
+  {
+    "id": 3,
+    "name": "Konkan Classic",
+    "cuisines": "Maxican, Italian, Desserts",
+    "isFeatured": false,
+    "cost": "600 for 2",
+    "maxTime": "20 mins",
+    "image": "rest3.jpg",
+    "rating": "3.5"
+  },
+  {
+    "id": 4,
+    "name": "The Goan Room",
+    "cuisines": "Indian, Italian, Maxican",
+    "isFeatured": false,
+    "cost": "400 for 2",
+    "maxTime": "20 mins",
+    "image": "rest4.jpg",
+    "rating": "4.6"
+  },
+  {
+    "id": 5,
+    "name": "The White Lotus",
+    "cuisines": "Indian, Chinese, Maxican",
+    "isFeatured": false,
+    "cost": "500 for 2",
+    "maxTime": "30 mins",
+    "image": "rest5.jpg",
+    "rating": "4.0"
+  },
+  {
+    "id": 6,
+    "name": "Cafe Basil",
+    "cuisines": "French, Chinese, Maxican",
+    "isFeatured": true,
+    "cost": "500 for 2",
+    "maxTime": "30 mins",
+    "image": "rest6.jpg",
+    "rating": "3.9"
+  },
+  {
+    "id": 7,
+    "name": "Xero Degree",
+    "cuisines": "Indian, Chinese, Maxican",
+    "isFeatured": false,
+    "cost": "500 for 2",
+    "maxTime": "20 mins",
+    "image": "rest7.jpg",
+    "rating": "4.2"
+  },
+  {
+    "id": 8,
+    "name": "The Curry",
+    "cuisines": "Italian, Chinese, Maxican",
+    "isFeatured": false,
+    "cost": "500 for 2",
+    "maxTime": "30 mins",
+    "image": "rest8.jpg",
+    "rating": "4.4"
+  }
+]

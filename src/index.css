@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-action {
+    @apply flex space-x-1 py-2 px-2 rounded hover:bg-hoverOpaque hover:text-primary active:bg-gray-300;
+  }
+  .input-text {
+    @apply text-font-14 placeholder:text-font-12 bg-inputBg appearance-none border-2 border-inputBg  py-2 px-4 leading-tight focus:outline-none focus:bg-white focus:border-primary;
+  }
+  .input-text-admin {
+    @apply text-font-14 placeholder:text-font-12 bg-gray-100 appearance-none border-2 border-gray-100  py-2 px-4 leading-tight focus:outline-none focus:bg-white focus:border-primary;
+  }
+  .btn-primary {
+    @apply bg-primary text-white px-4 py-1 text-font-14 font-light;
+  }
+  .btn-secondary {
+    @apply bg-highlight text-white px-4 py-1 text-font-14 font-light;
+  }
+}

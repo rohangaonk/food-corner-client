@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Veg Pizza",
+    "size": {
+      "type": "medium",
+      "additional": 10
+    },
+    "unitPrice": 130,
+    "quantity": 2,
+    "extras": [
+      {
+        "name": "Cheese",
+        "price": 14
+      },
+      {
+        "name": "Mushroom",
+        "price": 10
+      }
+    ],
+    "totalUnitPrice": 154
+  },
+  {
+    "name": "Mutter paneer",
+    "size": null,
+    "unitPrice": 130,
+    "quantity": 2,
+    "extras": [],
+    "totalUnitPrice": 130
+  }
+]

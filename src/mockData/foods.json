@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Aloo Paratha",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food1.jpg",
+    "price": 180,
+    "isCustomizable": true
+  },
+  {
+    "id": 2,
+    "name": "Prawn Fried Rice",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food2.jpg",
+    "price": 180,
+    "isCustomizable": false
+  },
+  {
+    "id": 3,
+    "name": "Chicken biryani",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food3.jpg",
+    "price": 180,
+    "isCustomizable": true
+  },
+  {
+    "id": 4,
+    "name": "Chicken Lolipop",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food4.jpg",
+    "price": 180,
+    "isCustomizable": false
+  },
+  {
+    "id": 5,
+    "name": "Fish Thali",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food5.jpg",
+    "price": 180,
+    "isCustomizable": false
+  },
+  {
+    "id": 6,
+    "name": "Masala Dosa",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !",
+    "image": "food6.jpg",
+    "price": 180,
+    "isCustomizable": true
+  }
+]
